@@ -1,0 +1,205 @@
+*
+{
+    margin: 0;
+}
+
+table
+{
+    width: 100%;
+    height: 760px ;
+    background-image: url(fundo.png);
+    background-size: cover;
+}
+
+
+td
+{
+    width: 25%;
+}
+.barra
+{
+    background-color: rgba(58, 11, 99, 1);
+    height: 72px;
+}
+.aline
+{
+    text-align: center;
+}
+.rosa
+{
+    background-color: rgba(251, 69, 199, 1);
+}
+.palavras
+{
+    color: aliceblue;
+
+}
+.ab 
+{
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin: 0 30px;
+}
+
+.ab img 
+{
+    display: block;
+    margin: 0 auto;
+}
+.verde
+{
+    background-color: #89f668;
+    text-align: center;
+}
+.verdin
+{
+ color: rgb(137, 246, 104);
+}
+
+.roxodiferenciado
+{
+    background-color: rgba(67,11,110,1);
+}
+.roxin
+{
+    background-color: #5b1078;;
+}
+.direita
+{
+    text-align: right;
+}
+.esquerda
+{
+    text-align: left;
+    padding: 1%;
+}
+.fazermat
+{
+    color: white;
+    font-size: 19px;
+    background-color: #8a4d9d;
+    margin: 45px 0;
+    padding: 15px 70px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.botao
+{
+    text-align: center;
+   height: 500px;
+   font-family: Raleway, sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: bold;
+}
+#butao
+{
+    height: 140px;
+    width: 960px;
+    background-color: rgb(67, 11, 110, 1);
+}
+.deco
+{
+    text-decoration: underline;
+}
+.heii
+{
+    height: 393.797px;
+}
+.font
+{
+    color: rgb(255, 255, 255);
+   
+    font-family: Roboto, sans-serif;
+}
+.fontroxi
+{
+    color: rgb(102, 16, 131);
+    font-size: 18px;
+    font-family: Raleway, sans-serif;
+}
+.roxocerto
+{
+ padding: 35px;
+} 
+.padcinco
+{
+    padding: 5px;
+   } 
+   
+.fontbranca{
+    font-family: Raleway, sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 100%;
+   }
+   .padzin
+{
+    padding: 30px;
+   } 
+   .fontonx
+   {
+    color: rgb(102, 16, 131);
+    font-size: 18px;
+    font-family: Raleway, sans-serif;
+    font-weight: bold;
+   }
+   .size
+   {
+     font-size: 18px;
+   }
+   .size2
+   {
+    font-size: 20px;
+    font-weight: bold;
+   }
+   .fontverdin{
+    color: rgb(137, 246, 104);
+    font-size: 32px;
+    font-family: Raleway, sans-serif;
+    font-weight: bold;
+   }
+   .fontverdin2{
+    color: rgb(137, 246, 104);
+    font-size: 24px;
+    font-family: Raleway, sans-serif;
+}
+.size3
+   {
+    padding: 0.3%;
+   }
+   .alinex{
+   align-items: left;
+   }
+   .img22{
+    background-color: transparent;
+    justify-content: center;
+    padding: 7%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+   }
+   .fontex{
+    color: rgb(137, 246, 104);
+    font-family: Raleway, sans-serif;
+   }
+   .f24{
+    font-size: 24px;
+   }
+   .f18{
+    font-size: 18px;
+   }
+   .bold{
+    font-weight: bold;
+   }
+   .branquin1{
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-family: Raleway, sans-serif;
+   }
+   .branquin2{
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-family: Raleway, sans-serif;
+   }
+   
